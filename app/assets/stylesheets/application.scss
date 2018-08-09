@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+@import "bootstrap";
+
+.navbar {
+  font-family: "Helvetica Neue", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  box-shadow: 0px 1px 3px #2a2a2a;
+  background: image_url('dark_wood.png');
+}
+
+.navbar-inverse a.navbar-brand {
+  font-family: "Helvetica Neue", Helvetica;
+  font-size: 38px;
+  font-weight: 300;
+  color: white;
+}
