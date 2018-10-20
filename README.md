@@ -1,24 +1,21 @@
-# README
+# Flixster
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Flixster](https://flixter-eugene-yu.herokuapp.com/)
 
-Things you may want to cover:
+Flixster is a video course learning webapp where students can go to pay to study differing courses that interest them and teachers can go to upload their video courses and sell for money.
 
-* Ruby version
+This project was built over two weeks and utilizes Rails/PostgreSQL on the backend and jQuery/Bootstrap on the front-end.
 
-* System dependencies
+## Features:
 
-* Configuration
+* Payment via Stripe
 
-* Database creation
+* User authentication via Devise
 
-* Database initialization
+* Video/Image upload via Carrierwave gem to Amazon S3
 
-* How to run the test suite
+* Ability for students to sign up for courses and pay for courses
 
-* Services (job queues, cache servers, search engines, etc.)
+* Ability for teachers to sign up and upload courses and set prices
 
-* Deployment instructions
 
-* ...
