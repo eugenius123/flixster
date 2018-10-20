@@ -4,7 +4,7 @@
 
 Flixster is a video course learning webapp where students can go to pay to study differing courses that interest them and teachers can go to upload their video courses and sell for money.
 
-This project was built over two weeks and utilizes Rails/PostgreSQL on the backend and jQuery/Bootstrap on the front-end.
+This project was built over two weeks and utilizes Rails/PostgreSQL on the backend and Bootstrap on the front-end.
 
 ## Features:
 
